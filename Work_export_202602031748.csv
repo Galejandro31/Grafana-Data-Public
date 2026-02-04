@@ -1,4 +1,4 @@
-﻿Timestamp for sample frequency every 1 min min,Temperature_Fahrenheit,Relative_Humidity
+time,Temperature_Fahrenheit,Relative_Humidity
 2026-02-02 08:07:00,32,57.6
 2026-02-02 08:08:00,33.98,50
 2026-02-02 08:09:00,35.6,55.1
@@ -2018,4 +2018,5 @@
 2026-02-03 17:45:00,74.12,16.7
 2026-02-03 17:46:00,74.12,16.6
 2026-02-03 17:47:00,74.3,16.6
+
 2026-02-03 17:48:00,74.48,16.5
